@@ -5,7 +5,7 @@ PÁGINA DE INICIO
 <!-- content-wrapper -->
 <div class="content-wrapper">
 
-  <!-- content-header -->
+  <!-- content-header xD-->
   <section class="content-header">
     
     <h1>
